@@ -1,4 +1,4 @@
-# DBMS
+# RESOURCE MANAGEMENT SYSTEM
 
  This project presents the design and implementation of a College Resource Management
  System (CRMS), a comprehensive solution aimed at efficiently managing and allocating
